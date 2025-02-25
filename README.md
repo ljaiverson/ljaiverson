@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jun Luo. I'm a PhD student at the University of Pittsburgh.
-- 👀 I’m interested in federated learning and machine learning in general. 
+- 👀 I’m interested in Vision-Language Models, federated learning, and machine learning in general. 
 
 <!---
 - 🌱 I’m currently learning ...
